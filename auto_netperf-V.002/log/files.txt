@@ -1,0 +1,12 @@
+192.168.1.16###/opt/auto_netperf/192.168.1.16-vs-192.168.1.14_20sec.txt
+192.168.1.17###/opt/auto_netperf/192.168.1.17-vs-192.168.1.15_20sec.txt
+192.168.1.15###/opt/auto_netperf/192.168.1.15-vs-192.168.1.14_20sec.txt
+192.168.1.17###/opt/auto_netperf/192.168.1.17-vs-192.168.1.16_20sec.txt
+192.168.1.17###/opt/auto_netperf/192.168.1.17-vs-192.168.1.14_20sec.txt
+192.168.1.16###/opt/auto_netperf/192.168.1.16-vs-192.168.1.15_20sec.txt
+192.168.1.16###/opt/auto_netperf/192.168.1.16-vs-192.168.1.14_5sec.txt
+192.168.1.17###/opt/auto_netperf/192.168.1.17-vs-192.168.1.15_5sec.txt
+192.168.1.15###/opt/auto_netperf/192.168.1.15-vs-192.168.1.14_5sec.txt
+192.168.1.17###/opt/auto_netperf/192.168.1.17-vs-192.168.1.16_5sec.txt
+192.168.1.17###/opt/auto_netperf/192.168.1.17-vs-192.168.1.14_5sec.txt
+192.168.1.16###/opt/auto_netperf/192.168.1.16-vs-192.168.1.15_5sec.txt
